@@ -1,4 +1,5 @@
-#This is python script tpo automatically get source and destination url pages screenshots and compare both images for percentage difference.
+#automation testing for Web application migrations
+#This is python script to automatically get source and destination url pages screenshots and compare both images for percentage difference.
 
 Things to setup up:
 1. Python 3
